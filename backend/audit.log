@@ -1,0 +1,14 @@
+2024-10-13T03:35:02.629Z - UserID: 1, Action: LOGIN, IP: ::1, Message: User test logged in
+2024-10-13T03:35:02.673Z - UserID: undefined, Action: GET_USERS, IP: ::1, Message: Admin fetched all users
+2024-10-13T03:35:02.686Z - UserID: undefined, Action: GET_USERS, IP: ::1, Message: Admin fetched all users
+2024-10-13T03:35:20.087Z - UserID: undefined, Action: GET_USERS, IP: ::1, Message: Admin fetched all users
+2024-10-13T03:35:20.099Z - UserID: undefined, Action: GET_USERS, IP: ::1, Message: Admin fetched all users
+2024-10-13T03:35:27.554Z - UserID: undefined, Action: DELETE_USER, IP: ::1, Message: Admin deleted user dummy
+2024-10-13T03:35:27.574Z - UserID: undefined, Action: GET_USERS, IP: ::1, Message: Admin fetched all users
+2024-10-13T03:43:53.768Z - UserID: undefined, Action: UPDATE_USER, IP: ::1, Message: Admin updated user test
+2024-10-13T03:43:53.790Z - UserID: undefined, Action: GET_USERS, IP: ::1, Message: Admin fetched all users
+2024-10-13T16:11:22.730Z - UserID: undefined, Action: CREATE_ITEM, IP: ::1, Message: Created item: Macbook Pro
+2024-10-13T16:19:33.504Z - UserID: undefined, Action: CREATE_ITEM, IP: ::1, Message: Created item: Crap Laptop Test
+2024-10-13T16:30:24.724Z - UserID: undefined, Action: UPDATE_ITEM, IP: ::1, Message: Updated item: Sony Laptop
+2024-10-13T16:31:52.877Z - UserID: undefined, Action: UPDATE_ITEM, IP: ::1, Message: Updated item: Sony Laptop
+2024-10-13T16:40:28.038Z - UserID: undefined, Action: CREATE_ITEM, IP: ::1, Message: Created item: Kelly Kapoor
